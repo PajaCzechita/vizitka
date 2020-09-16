@@ -5,7 +5,8 @@ dir -> ukáže mi to vše, co je v té dané složce
 git --version -> sdělí mi to, jakou mám verzi gitu
 git init -> slozka ma souviset s GITem
 
-git add . -> přidej aktuální složku na GIT
+git add . -> přidej aktuální všechny změny na GIT
+git add nazev slozky, kt chci commitnout -> přidej jen vybranou složku/soubor/změnu
 git commit -m "První commit" -> přidáváme něco do historie -m -> message "vkladame popis, co delame"
 
 ptá se to kdo jsem
@@ -18,4 +19,5 @@ nahravam novou slozku z compu
 git remote add origin https://github.com/PajaCzechita/vizitka.git
 git branch -M master
 git push -u origin master
+
 
