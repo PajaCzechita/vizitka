@@ -5,3 +5,11 @@ body {
 img {
   width: 30%;
 }
+
+.vizitka {
+  text-align: center;
+}
+
+.icon {
+  border-radius: 5%;
+}
