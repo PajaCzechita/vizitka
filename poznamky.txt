@@ -1,0 +1,9 @@
+cd .. -> jdu o patro výš
+cd začátek složkky + tab -> posune mě to do složky níže
+
+dir -> ukáže mi to vše, co je v té dané složce
+git --version -> sdělí mi to, jakou mám verzi gitu
+git init -> slozka ma souviset s GITem
+
+git add . -> přidej aktuální složku na GIT
+git commit -m "První commit" -> přidáváme něco do historie -m -> message "vkladame popis, co delame"
