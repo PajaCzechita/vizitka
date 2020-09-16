@@ -7,3 +7,15 @@ git init -> slozka ma souviset s GITem
 
 git add . -> přidej aktuální složku na GIT
 git commit -m "První commit" -> přidáváme něco do historie -m -> message "vkladame popis, co delame"
+
+ptá se to kdo jsem
+git config --global user.name "Jmeno Prijmeni"
+git config --global user.email "my email"
+
+git status -> dá mi to aktuální info co je a není commit
+
+nahravam novou slozku z compu
+git remote add origin https://github.com/PajaCzechita/vizitka.git
+git branch -M master
+git push -u origin master
+
