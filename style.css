@@ -1,5 +1,8 @@
-body {
+.vizitka {
+  display: inline-flex;
   background-color: yellowgreen;
+  margin: 2px;
+  padding: 10px;
 }
 
 img {
